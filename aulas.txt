@@ -1,0 +1,38 @@
+ja vimos
+- modelo relacional
+- MER modelo de entidade e relacionamento
+- anomalias e normalização
+- o que é cada modelo
+- o que sao tabelas
+- para que serve as tabelas
+- tuplas
+- colunas
+- atributos
+- entidades
+- relacionamento
+- cardinalidades
+- chave primaria
+- chave estrangeira
+
+vamos ver
+- tipos de linguagens
+- conjuntos de comandos
+- ddl
+- dql
+
+
+atividade
+1. criar um banco de dados chamado escola, entidade aluno, entidade disciplina, entidade sala.
+2. inserir 4 disciplinas
+3. inserir 60 alunos
+3. inserir 4 salas
+
+cada disciplina deverá ter o nome da disciplina, o id da disciplina, quantidade de horas, sala
+cada aluno deverá ter um id, um nome, sobrenome, data nascimento, email e telefone
+cada sala devera ter um id, numero da sala, quantidade de mesas
+
+depois de inseridos, os alunos precisam se inscrever nas disciplinas, sendo 15 alunos por disciplina
+cada disciplina precisa esta inscrita em uma sala
+mostre os clientes inseridos
+mostre as disciplinas cadastradas
+mostre mostre as salas disponiveis
